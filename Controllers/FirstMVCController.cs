@@ -16,7 +16,7 @@ namespace MvcApp.Controllers
 
         public void DoSomeThing()
         {
-            Response.Write("<script>alert('DoSomeThing...okay')</script>");
+            Response.Write("<script>alert('DoSomeThing...okay...branch test')</script>");
         }
     }
 }
